@@ -1,0 +1,2 @@
+#!/bin/bash
+mdir -r /tmp/my_first_directory
